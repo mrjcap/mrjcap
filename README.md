@@ -1,5 +1,3 @@
 ### Hello there 👋
 
-<a href="https://github.com/mrjcap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjcap&theme=dark" />
-</a>
+![https://github-readme-stats.vercel.app/api?username=mrjcap](https://github-readme-stats.vercel.app/api?username=mrjcap&theme=dark)
